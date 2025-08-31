@@ -17,11 +17,12 @@ This project replicates the look and feel of Swiggy's landing page with a clean 
 3. Explore the UI 🎉
 
 ## 🌐 Live Demo
-👉 [View Live]()
+👉 [View Live](https://bibhu-1802.github.io/Swiggy-Clone/)
 
 
 ## 👨‍💻 Author
 **Bibhu Data Sethy** – Aspiring Python Developer & Web Enthusiast  
--   
+-   www.linkedin.com/in/bibhu-data
 - 
+
 
