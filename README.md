@@ -16,7 +16,12 @@ This project replicates the look and feel of Swiggy's landing page with a clean 
 2. Open `index.html` in your browser  
 3. Explore the UI 🎉
 
+## 🌐 Live Demo
+👉 [View Live]()
+
+
 ## 👨‍💻 Author
 **Bibhu Data Sethy** – Aspiring Python Developer & Web Enthusiast  
-- [LinkedIn]( www.linkedin.com/in/bibhu-data)  
-- [GitHub]()
+-   
+- 
+
