@@ -23,6 +23,7 @@ This project replicates the look and feel of Swiggy's landing page with a clean 
 ## 👨‍💻 Author
 **Bibhu Data Sethy** – Aspiring Python Developer & Web Enthusiast  
 -   www.linkedin.com/in/bibhu-data
-- 
+-   https://github.com/Bibhu-1802
+
 
 
